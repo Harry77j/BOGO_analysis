@@ -33,7 +33,6 @@ The analysis pipeline requires **Anaconda** and is run within a **Conda environm
 To reproduce the analysis environment, you can use the provided environment file:
 
 ```bash
-```bash
 # Navigate to the environment folder
 cd environments/
 
