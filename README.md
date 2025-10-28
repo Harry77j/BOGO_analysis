@@ -9,7 +9,9 @@ This repository contains the full source code and the **ORFeome reference file**
 If you use this code or the ORFeome reference file, please cite the associated preprint:
 
 **Title:** BOGO: A Proteome-Wide Gene Overexpression Platform for Discovering Rational Cancer Combination Therapies
+
 **Authors:** Kyeong Beom Jo, Mohammed M. Alruwaili, Da-Eun Kim, Yongjun Koh, Hyeyeon Kim, Kwontae You, Ji-Sun Kim, Saba Sane, Yanqi Guo, Jacob P. Wright, Hyobin Julianne Lim, Maricris N. Naranjo, Atina G. Coté, Frederick P. Roth, David E. Hill, Jung-Hyun Choi, Hunsang Lee, Kenneth A. Matreyek, Kyle K.-H. Farh, Jong-Eun Park, Hyunkyung Kim, Andrei V. Bakin, Dae-Kyum Kim
+
 **DOI:** [10.1101/2025.09.02.673780](https://doi.org/10.1101/2025.09.02.673780)
 
 ## 📁 Repository Contents
