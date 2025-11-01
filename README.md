@@ -19,8 +19,8 @@ If you use this code or the ORFeome reference file, please cite the associated p
 ## 📁 Repository Contents
 
 * **`/code/`**: Contains all scripts (e.g., R, Python) for data processing, statistical analysis, and figure generation.
-    * `BOGO_screening.ipynb` (Screening for figure 1, 2, 4)
-    * `BOGO_scRNA.ipynb` (Screening for figure 3)
+    * `BOGO_ORFeome_Seq.html` (Example jupyter notebook code in html of screening for figure 1, 2, 4)
+    * `BOGO_scRNA-seq.html` (Example jupyter notebook code in html of Screening for figure 3)
 
 * **`/ORFeome_reference/`**: Contains the FASTA or other format file for the ORFeome reference used for alignment and quantification.
     * `9'1_delta_final.fa`: The FASTA reference file for the ORFeome-seq alignment.
